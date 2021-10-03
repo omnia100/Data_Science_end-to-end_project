@@ -1,7 +1,8 @@
-project_name
+Skil-Job
 ==============================
 
-data science end to end project
+a data-driven solution for students of an IT educational institute (our client) to answer
+questions such as “Do I need to learn C++ to be a Data Scientist?”, “Do DevOps and System admins use the same technologies?”, “I really like JavaScript can I use it in Data Analytics?”. They mostly want to understand the relationships between the jobs and the technologies.
 
 Project Organization
 ------------
