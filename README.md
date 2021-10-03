@@ -1,4 +1,4 @@
-Skil-Job
+Skill-Job
 ==============================
 
 a data-driven solution for students of an IT educational institute (our client) to answer
